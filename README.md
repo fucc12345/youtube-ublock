@@ -115,3 +115,4 @@ Thank you for using the **YouTube App for Windows**! 🙌 We hope this app makes
 
 ### 💬 Have questions? Feedback? Visit our GitHub page and reach out! We’d love to hear from you! 💬
 **Coded with love by Techie ❤️**
+**Built on Electron 💻⚡**
